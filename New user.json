@@ -22,5 +22,11 @@
         "key": "key5566",
         "expirydate": "02-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "aae34df7ada55d6b",
+        "key": "HACKERBRO",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
