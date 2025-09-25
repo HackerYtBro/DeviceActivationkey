@@ -28,5 +28,11 @@
         "key": "fsysushsb",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "de04f8562dbc4c16",
+        "key": "hsisow62hebdh",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
