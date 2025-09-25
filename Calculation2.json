@@ -34,5 +34,12 @@
         "key": "hsisow62hebdh",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0a878c3c827c1e4e",
+        "key": "key67890",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
+    
 ]
