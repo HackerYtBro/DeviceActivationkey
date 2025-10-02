@@ -16,5 +16,11 @@
         "key": "Hacker1",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0a878c3c827c1e4e",
+        "key": "Hacker1",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
     }
 ]
